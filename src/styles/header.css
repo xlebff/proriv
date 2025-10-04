@@ -1,0 +1,8 @@
+.header {
+    background: linear-gradient(rgba(204, 184, 184, 0.5), rgba(235, 213, 213, 0.5)), url(../images/digital-art-beautiful-mountains.jpg) no-repeat center/cover;
+    height: 500px;
+    padding: 8px;
+    border-radius: 0px 0px 50px 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
