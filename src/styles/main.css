@@ -1,5 +1,6 @@
-.main {
+.main * {
     max-width: 1400px;
     margin-inline: auto;
     padding: 10px;
+    margin-block: 0;
 }

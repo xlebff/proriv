@@ -1,13 +1,23 @@
 .go {
-    margin-top: 40px;
-    display: grid;
+    padding: 100px;
+}
+
+.box {
+    display: flex;
+    /* display: grid;
     grid-template-columns: 1fr 1.5fr;
-    grid-template-rows: 400px;
+    grid-template-rows: 500px;
     gap: 15px;
+    align-items: center;
+    border: solid;
+    border-color: #dedede;
+    border-width: 1px;
+    border-radius: 30px;
+    background-color: #f8f8f8; */
 }
 
 .go__picture {
-    width: auto;
+    width: 800px;
     margin: 0;
     align-self: center;
     overflow: hidden;

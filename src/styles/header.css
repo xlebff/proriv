@@ -1,8 +1,9 @@
 .header {
-    background: linear-gradient(rgba(204, 184, 184, 0.5), rgba(235, 213, 213, 0.5)), url(../images/digital-art-beautiful-mountains.jpg) no-repeat center/cover;
-    height: 500px;
+    background: linear-gradient(rgba(204, 184, 184, 0.767), rgba(226, 232, 170, 0.541)), url(../images/japan-background-digital-art.jpg) no-repeat center/cover fixed;
+    height: 800px;
     padding: 8px;
     border-radius: 0px 0px 50px 50px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
