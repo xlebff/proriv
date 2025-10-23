@@ -2,15 +2,19 @@
     /* font-family: 'Asia AS Normal';
     src: url('../fonts/AsiaAS-Normal.ttf') format('truetype'); */
 
-    font-family: 'Bonzai';
-    src: url('../fonts/bonzai.ttf') format('truetype');
+    /* font-family: 'Bonzai';
+    src: url('../fonts/bonzai.ttf') format('truetype'); */
+
+    font-family: 'Arkhip';
+    src: url('../fonts/Arkhip_font.ttf') format('truetype');
+
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 body {
-    font-family: 'Bonzai', sans-serif;
+    font-family: 'Arkhip', sans-serif;
     font-size: 25px;
     margin: 0;
     background-color: #e6d7c4;
