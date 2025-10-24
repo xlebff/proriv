@@ -1,0 +1,39 @@
+.directions {
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-block: var(--gap);
+}
+
+.directions__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.directions__list__element {
+    max-width: 300px;
+    height: 420px;
+}
+
+.directions__list__img-container {
+    width: 268px;
+    height: 382px;
+    overflow: hidden;
+    margin: auto;
+    padding: 0;
+}
+
+.directions__list__img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    padding: 0;
+    margin: 0;
+}
+
+.directions__list__title {
+    text-align: center;
+    font-size: 20px;
+}
